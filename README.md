@@ -56,10 +56,11 @@ AI-powered digital employability platform designed to help students assess, impr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-810&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shalini-810&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-810&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shalini-810&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=shalini-810&theme=github-dark&hide_border=true" />
 </p>
 
 ---
