@@ -55,8 +55,6 @@ AI-powered digital employability platform designed to help students assess, impr
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalini-810&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
