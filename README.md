@@ -1,13 +1,13 @@
 ### 👋 Hi I'm, 
 
-```text
+
  ███████╗██╗  ██╗ █████╗ ██╗     ██╗███╗   ██╗██╗        █████╗ ███╗   ███╗ █████╗ ██╗      █████╗        ██████╗
  ██╔════╝██║  ██║██╔══██╗██║     ██║████╗  ██║██║       ██╔══██╗████╗ ████║██╔══██╗██║     ██╔══██╗       ██╔══██╗
  ███████╗███████║███████║██║     ██║██╔██╗ ██║██║       ███████║██╔████╔██║███████║██║     ███████║       ██║  ██║
  ╚════██║██╔══██║██╔══██║██║     ██║██║╚██╗██║██║       ██╔══██║██║╚██╔╝██║██╔══██║██║     ██╔══██║       ██║  ██║
  ███████║██║  ██║██║  ██║███████╗██║██║ ╚████║██║       ██║  ██║██║ ╚═╝ ██║██║  ██║███████╗██║  ██║       ██████╔╝
  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝       ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═════╝
-```
+
 
 
 ### 🛡️ Cybersecurity Engineering Student | SOC & Blue Team Learner
@@ -16,25 +16,22 @@
 
 🎯 Goal: Become a Blue Team Security Professional
 
-```javascript
-const profile = {
-    name: "Shalini Amala D",
-    role: "Cybersecurity Engineering Student",
+<table>
+<tr>
+<td>
 
-    focus: [
-        "SOC Analyst",
-        "Blue Team"
-    ],
+<h3>⚡ Profile</h3>
 
-    interests: [
-        "Threat Detection",
-        "Network Security",
-        "Security Monitoring"
-    ],
+<p><b>Role:</b> Cybersecurity Engineering Student</p>
+<p><b>Focus:</b> SOC Analyst • Blue Team</p>
+<p><b>Interests:</b> Threat Detection • Network Security • Security Monitoring</p>
+<p><b>Mindset:</b> Learn. Detect. Defend.</p>
 
-    mindset: "Learn. Detect. Defend."
-};
-```
+</td>
+</tr>
+</table>
+
+
 ## 👩‍💻 About Me
 
 - 🎓 B.E - CSE (Cybersecurity) Student
