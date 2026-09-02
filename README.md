@@ -1,4 +1,4 @@
-### 👋 Hi, 
+### 👋 Hi I'm, 
 
 ```text
  ███████╗██╗  ██╗ █████╗ ██╗     ██╗███╗   ██╗██╗        █████╗ ███╗   ███╗ █████╗ ██╗      █████╗        ██████╗
@@ -12,6 +12,7 @@
 ### 🛡️ Cybersecurity Engineering Student | SOC & Blue Team Learner
 
 🌱 Currently exploring Linux, Networking, Git & Blue Team technologies
+
 🎯 Goal: Become a Blue Team Security Professional
 
 const profile = {
