@@ -1,19 +1,30 @@
-# 👋 Hello, I'm Shalini Amala D
+### 👋 Hi, 
 
-<div align="center">
+```text
+ ███████╗██╗  ██╗ █████╗ ██╗     ██╗███╗   ██╗██╗        █████╗ ███╗   ███╗ █████╗ ██╗      █████╗        ██████╗
+ ██╔════╝██║  ██║██╔══██╗██║     ██║████╗  ██║██║       ██╔══██╗████╗ ████║██╔══██╗██║     ██╔══██╗       ██╔══██╗
+ ███████╗███████║███████║██║     ██║██╔██╗ ██║██║       ███████║██╔████╔██║███████║██║     ███████║       ██║  ██║
+ ╚════██║██╔══██║██╔══██║██║     ██║██║╚██╗██║██║       ██╔══██║██║╚██╔╝██║██╔══██║██║     ██╔══██║       ██║  ██║
+ ███████║██║  ██║██║  ██║███████╗██║██║ ╚████║██║       ██║  ██║██║ ╚═╝ ██║██║  ██║███████╗██║  ██║       ██████╔╝
+ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝       ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═════╝
+```
 
-## 🛡️ Cybersecurity Engineering Student | SOC & Blue Team Learner
-> *Learning. Building. Defending.*
+### 🛡️ Cybersecurity Engineering Student | SOC & Blue Team Learner
 
 🌱 Currently exploring Linux, Networking, Git & Blue Team technologies
-
 🎯 Goal: Become a Blue Team Security Professional
 
-![](https://komarev.com/ghpvc/?username=shalini-810&color=blue)
-
-</div>
-
----
+const profile = {
+    name: "Shalini Amala D",
+    role: "Cybersecurity Engineering Student",
+    focus: "SOC Analyst | Blue Team",
+    interests: [
+        "Threat Detection",
+        "Network Security",
+        "Security Monitoring"
+    ],
+    mindset: "Learn. Detect. Defend."
+};
 
 ## 👩‍💻 About Me
 
@@ -24,39 +35,17 @@
 - 🚀 Building cybersecurity projects
 - 📚 Solving TryHackMe & other hands-on rooms
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode,bash" />
 </p>
 
----
 
-## 🔧 Security Tools
+## 🌐 Connect With Me
 
-- Wireshark
-- Splunk (Labs)
-- VirusTotal
-- TryHackMe
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shalini%20Amala%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shalini-amala-d-290818381)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shalini-810.github.io/portfolio/)
 
-## 🚀 Projects
-
-### 🔐 File Integrity Monitoring System
-Detects unauthorized file modifications using SHA-256 hashing.
-
-### 🚧 CareerIQ (In Progress)
-AI-powered digital employability platform designed to help students assess, improve, and showcase their skills.
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shalini-amala-d-290818381)
-
----
-
-⭐ Thanks for visiting my profile!
+🌟 Thanks for visiting my page!!!
