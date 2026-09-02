@@ -34,6 +34,7 @@
 
 ## 👩‍💻 About Me
 
+
 - 🎓 B.E - CSE (Cybersecurity) Student
 - 🔐 Interested in Blue Team & SOC Operations
 - 💻 Learning C, Python & Security Automation
@@ -41,7 +42,9 @@
 - 🚀 Building cybersecurity projects
 - 📚 Solving TryHackMe & other hands-on rooms
 
+
 ## 🛠️ Tech Stack
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode,bash" />
